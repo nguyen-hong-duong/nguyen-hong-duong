@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Duong
 
-<!--
-**nguyen-hong-duong/nguyen-hong-duong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nguyen Hong Duong, exploring **Machine Learning, Data Science, and Applied AI**.
 
-Here are some ideas to get you started:
+I'm interested in understanding how intelligent systems work and applying data-driven approaches to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of Interest
+
+- **Machine Learning:** Predictive modeling, model evaluation, and optimization
+- **Data Science:** Data analysis, visualization, and statistical learning
+- **Deep Learning:** Neural networks and representation learning
+- **Applied AI:** Natural language processing and intelligent applications
+
+### Currently Learning
+
+- Building a strong foundation in machine learning and statistics
+- Developing practical, reproducible ML projects
+- Exploring modern deep learning techniques
+
+### Projects
+
+I'm currently working on my first end-to-end machine learning projects. Selected work will be featured here as it becomes available.
+
+---
+
+*Learning, experimenting, and building — one project at a time.*
